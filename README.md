@@ -7,4 +7,4 @@ Note 1: Khi tạo mô hình, ping 2 con winSV với win10 Client thì bình thư
 
   `netsh advfirewall firewall add rule name="ICMP Allow incoming V4 echo request" protocol=icmpv4:8,any  dir=in action=allow`
 
-Note 2: Cài đủ các tool rồi chơi các host-only thôi.
+Note 2: Cài đủ các tool rồi chơi card host-only thôi.
